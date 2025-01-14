@@ -11,3 +11,6 @@ This project is a DIY device that displays your YouTube channel's subscriber cou
 - **ESP32-C3** microcontroller.  
 - **ST7789** 1.3-inch display.  
 - 3D-printed case (files included).  
+
+
+- [Check out my YouTube channel here!](https://www.youtube.com/@The-Brain-Rush)
